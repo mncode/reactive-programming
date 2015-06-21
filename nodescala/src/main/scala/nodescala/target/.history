@@ -1,0 +1,6 @@
+run 
+compile
+sbt help
+help
+reload
+compile

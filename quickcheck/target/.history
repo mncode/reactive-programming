@@ -1,0 +1,26 @@
+eclipse
+ run 
+test
+compile
+test
+compile
+test
+submit 
+submit mamoudou.n.camara@gmail.com yTcYvmEcve
+test --verbose
+test verbose
+test
+test -v
+help
+help test
+help test-only
+test
+submit mamoudou.n.camara@gmail.com yTcYvmEcve
+test
+testOnly quickcheck.QuickCheckSuite -- -verbosity 1
+testOnly quickcheck.QuickCheckSuite -- -verbosity 2
+run last assingment/test:testOnly
+test -- verbosity 1
+test
+submit mamoudou.n.camara@gmail.com yTcYvmEcve
+submit mamoudou.n.camara@gmail.com ecb6EkzPPR

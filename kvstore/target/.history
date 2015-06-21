@@ -1,0 +1,30 @@
+eclipse
+test
+test-only Step1_PrimarySpec
+test-only Step1PrimarySpec
+test-only 
+test-only Spec1_PrimarySpec
+test-only kvstore.Spec1_*
+test-only kvstore.IntegrationSpec*
+test-only kvstore.Spec1_*
+test
+submit mamoudou.n.camara@gmail.com gMeYurshZu 
+test
+submit mamoudou.n.camara@gmail.com rBZHfvyxYp
+test-only Step5_*
+test-only Step5_PrimaryPersistenceSpec.scala
+test
+submit mamoudou.n.camara@gmail.com XJPYYk8Hrw
+test
+submit mamoudou.n.camara@gmail.com XJPYYk8Hrw
+test
+submit mamoudou.n.camara@gmail.com JDTR9n6ssr
+test
+submit mamoudou.n.camara@gmail.com JDTR9n6ssr
+test
+submit mamoudou.n.camara@gmail.com JDTR9n6ssr
+test
+mamoudou.n.camara@gmail.com aCmgVeDCGW
+submit mamoudou.n.camara@gmail.com aCmgVeDCGW
+test
+submit mamoudou.n.camara@gmail.com aCmgVeDCGW
